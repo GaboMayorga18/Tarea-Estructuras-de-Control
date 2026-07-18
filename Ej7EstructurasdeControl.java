@@ -1,6 +1,6 @@
 package ej.pkg1.estructuras.de.control;
 import java.util.Scanner;
-
+/** @author Gabriel Mayorga */
 public class Ej7EstructurasdeControl {
 
     public static void main(String[] args) {
